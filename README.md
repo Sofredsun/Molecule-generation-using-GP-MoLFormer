@@ -166,11 +166,11 @@ COC(=O)N[C@@H](C)CNc1nccc(n1)-c2cn(C(C)C)nc2
 | 2 | `COC(=O)N[C@@H](C)CNc1nccc(-c2cn(C(C)C)nc2CC#N)n1` | 357.4 | 2.14 | 117.8 | 2 | 7 | 0.779 | 3.53 |
 | 9 | `COC(=O)N[C@@H](C)CNc1nccc(-c2cnn(C(C)C)c2)n1.[...` | 353.8 | -0.92 | 94.0 | 2 | 6 | 0.697 | 3.23 |
 
-![Структура Энкорафениба](visualizations/Top 10 generated molecules.png)
+![ТОП-10 молекул](visualizations/Top_10_generated_molecules.png)
 
 **Сравнение с оригинальной молекулой**
 
-![Структура Энкорафениба](visualizations/Generic molecules vs encorafenib.png)
+![Сгенерированные молекулы vs энкорафениб](visualizations/Generic_molecules_vs_encorafenib.png)
 
 Основные различия в физико-химических свойствах:
 
